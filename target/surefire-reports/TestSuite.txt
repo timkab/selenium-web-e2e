@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 7.46 s <<< FAILURE! - in TestSuite
+initializeStart(bookingTesting.userAccount)  Time elapsed: 5.732 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 78
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VV3J5LT', ip: '172.20.10.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0100A923+1550627]
+	Ordinal0 [0x00F8A731+1025841]
+	Ordinal0 [0x00F0C715+509717]
+	Ordinal0 [0x00E9FC68+64616]
+	Ordinal0 [0x00E9C594+50580]
+	Ordinal0 [0x00EBACE7+175335]
+	Ordinal0 [0x00EBA8ED+174317]
+	Ordinal0 [0x00EB8CDB+167131]
+	Ordinal0 [0x00EA144A+70730]
+	Ordinal0 [0x00EA24D0+74960]
+	Ordinal0 [0x00EA2469+74857]
+	Ordinal0 [0x00FA42F7+1131255]
+	GetHandleVerifier [0x010A711D+523789]
+	GetHandleVerifier [0x010A6EB0+523168]
+	GetHandleVerifier [0x010AE207+552695]
+	GetHandleVerifier [0x010A791A+525834]
+	Ordinal0 [0x00F9B82C+1095724]
+	Ordinal0 [0x00FA636B+1139563]
+	Ordinal0 [0x00FA64D3+1139923]
+	Ordinal0 [0x00FA5455+1135701]
+	BaseThreadInitThunk [0x766F6359+25]
+	RtlGetAppContainerNamedObjectPath [0x776E7B74+228]
+	RtlGetAppContainerNamedObjectPath [0x776E7B44+180]
+
+	at bookingTesting.userAccount.initializeStart(userAccount.java:22)
+
+initialize(bookingTesting.HomePage)  Time elapsed: 0.111 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+session not created: This version of ChromeDriver only supports Chrome version 78
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VV3J5LT', ip: '172.20.10.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.3'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0100A923+1550627]
+	Ordinal0 [0x00F8A731+1025841]
+	Ordinal0 [0x00F0C715+509717]
+	Ordinal0 [0x00E9FC68+64616]
+	Ordinal0 [0x00E9C594+50580]
+	Ordinal0 [0x00EBACE7+175335]
+	Ordinal0 [0x00EBA8ED+174317]
+	Ordinal0 [0x00EB8CDB+167131]
+	Ordinal0 [0x00EA144A+70730]
+	Ordinal0 [0x00EA24D0+74960]
+	Ordinal0 [0x00EA2469+74857]
+	Ordinal0 [0x00FA42F7+1131255]
+	GetHandleVerifier [0x010A711D+523789]
+	GetHandleVerifier [0x010A6EB0+523168]
+	GetHandleVerifier [0x010AE207+552695]
+	GetHandleVerifier [0x010A791A+525834]
+	Ordinal0 [0x00F9B82C+1095724]
+	Ordinal0 [0x00FA636B+1139563]
+	Ordinal0 [0x00FA64D3+1139923]
+	Ordinal0 [0x00FA5455+1135701]
+	BaseThreadInitThunk [0x766F6359+25]
+	RtlGetAppContainerNamedObjectPath [0x776E7B74+228]
+	RtlGetAppContainerNamedObjectPath [0x776E7B44+180]
+
+	at bookingTesting.HomePage.initialize(HomePage.java:27)
+

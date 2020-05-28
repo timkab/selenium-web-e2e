@@ -1,0 +1,6 @@
+16:32:57.752 [TestNG-test=BookingTest-1] INFO  bookingTesting.HomePage - Asserted Greeeting
+16:32:59.537 [main] INFO  bookingTesting.HomePage - Browser Closed
+16:33:10.240 [TestNG-test=maiRU Test-1] INFO  resources.base - Opened 2nd Test Case
+16:37:54.024 [main] INFO  bookingTesting.HomePage - Driver Initialized
+16:37:58.890 [TestNG-test=BookingTest-1] INFO  bookingTesting.HomePage - Navigated to HomeURL
+16:38:09.074 [TestNG-test=BookingTest-1] INFO  bookingTesting.HomePage - Asserted Greeeting

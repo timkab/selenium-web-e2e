@@ -1,0 +1,8 @@
+09:21:35.150 [main] INFO  resources.base - Opened 2nd Test Case
+09:31:11.121 [main] INFO  resources.base - Opened 2nd Test Case
+09:33:00.615 [main] INFO  resources.base - Opened 2nd Test Case
+09:36:08.633 [main] INFO  resources.base - Opened 2nd Test Case
+09:38:59.588 [main] INFO  resources.base - Opened 2nd Test Case
+09:44:54.385 [main] INFO  resources.base - Driver Initialized
+09:45:01.461 [main] INFO  resources.base - Navigated to HomeURL
+09:45:11.284 [main] INFO  resources.base - Asserted Greeeting

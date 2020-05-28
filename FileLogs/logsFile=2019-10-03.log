@@ -1,0 +1,8 @@
+21:34:01.263 [main] INFO  resources.base - Browser Closed
+21:34:14.433 [main] INFO  resources.base - Opened 2nd Test Case
+21:43:31.194 [main] INFO  resources.base - Driver Initialized
+21:43:36.417 [main] INFO  resources.base - Navigated to HomeURL
+21:43:48.306 [main] INFO  resources.base - Browser Closed
+21:44:23.773 [main] INFO  resources.base - Opened 2nd Test Case
+21:48:36.997 [main] INFO  resources.base - Driver Initialized
+21:48:42.233 [main] INFO  resources.base - Navigated to HomeURL

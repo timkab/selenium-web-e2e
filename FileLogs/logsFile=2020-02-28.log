@@ -1,0 +1,6 @@
+13:16:20.115 [TestNG-tests-2] INFO  resources.base - initializing Driver
+13:16:20.146 [TestNG-tests-2] ERROR listeners.listener - An exception occurred while taking screenshot null
+13:24:46.727 [TestNG-tests-1] INFO  resources.base - initializing Driver
+13:24:47.019 [TestNG-tests-2] INFO  resources.base - initializing Driver
+13:24:47.081 [TestNG-tests-2] ERROR listeners.listener - An exception occurred while taking screenshot null
+13:47:35.515 [TestNG-tests-1] INFO  resources.base - initializing Driver

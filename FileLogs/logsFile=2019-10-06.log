@@ -1,0 +1,8 @@
+09:45:15.500 [main] INFO  resources.base - Browser Closed
+09:45:36.294 [main] INFO  resources.base - Opened 2nd Test Case
+09:47:32.311 [main] INFO  resources.base - Driver Initialized
+09:47:37.467 [main] INFO  resources.base - Navigated to HomeURL
+09:47:46.923 [main] INFO  resources.base - Asserted Greeeting
+09:47:51.251 [main] INFO  resources.base - Browser Closed
+09:48:04.662 [main] INFO  resources.base - Opened 2nd Test Case
+18:48:38.496 [main] INFO  resources.base - Driver Initialized

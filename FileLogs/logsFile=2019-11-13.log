@@ -1,0 +1,7 @@
+16:33:12.481 [TestNG-tests-1] INFO  bookingTesting.HomePage - Navigated to HomeURL
+16:33:23.395 [TestNG-tests-1] INFO  bookingTesting.HomePage - window maximized
+16:33:26.006 [TestNG-tests-1] INFO  bookingTesting.HomePage - clicked Sign in
+16:33:33.381 [TestNG-tests-1] INFO  bookingTesting.HomePage - Asserted Greeeting
+16:33:37.590 [TestNG-tests-1] INFO  bookingTesting.HomePage - Browser Closed
+16:33:43.900 [TestNG-tests-2] INFO  resources.base - Opened 2nd Test Case
+11:19:56.979 [TestNG-tests-1] INFO  bookingTesting.HomePage - Driver Initialized

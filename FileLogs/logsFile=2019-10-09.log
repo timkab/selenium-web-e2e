@@ -1,0 +1,4 @@
+16:07:30.119 [TestNG-test=maiRU Test-1] INFO  listeners.extentReportListener - *** Test execution userTest failed...
+16:07:30.129 [TestNG-test=maiRU Test-1] INFO  listeners.extentReportListener - userTest failed!
+16:07:30.130 [TestNG-test=maiRU Test-1] INFO  listeners.extentReportListener - Screen shots reports path - C:\Users\Timur\fullFramework\TestReport\screenshots
+16:07:30.132 [TestNG-test=maiRU Test-1] INFO  listeners.extentReportListener - An exception occurred while taking screenshot null

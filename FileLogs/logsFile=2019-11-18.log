@@ -1,0 +1,7 @@
+13:20:39.427 [TestNG-tests-1] INFO  bookingTesting.HomePage - clicked Sign in
+13:20:49.958 [TestNG-tests-1] INFO  bookingTesting.HomePage - Browser Closed
+13:24:01.280 [TestNG-tests-1] INFO  resources.base - initializing Driver
+13:24:01.902 [TestNG-tests-2] INFO  resources.base - initializing Driver
+13:24:01.939 [TestNG-tests-2] INFO  listeners.listener - An exception occurred while taking screenshot null
+19:46:42.575 [TestNG-tests-1] INFO  resources.base - initializing Driver
+19:46:42.951 [TestNG-tests-2] INFO  resources.base - initializing Driver

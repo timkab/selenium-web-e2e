@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listeners.listeners"/>
+  </listeners>
+  <test thread-count="2" parallel="methods" name="maiRU Test(failed)">
+    <classes>
+      <class name="bookingTesting.userAccount">
+        <methods>
+          <include name="endSession"/>
+          <include name="userTest"/>
+        </methods>
+      </class> <!-- bookingTesting.userAccount -->
+    </classes>
+  </test> <!-- maiRU Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

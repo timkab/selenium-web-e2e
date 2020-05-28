@@ -1,0 +1,7 @@
+02:42:48.040 [main] INFO  bookingTesting.HomePage - Browser Closed
+02:43:26.621 [TestNG-test=maiRU Test-1] INFO  resources.base - Opened 2nd Test Case
+09:52:00.702 [main] INFO  bookingTesting.HomePage - Driver Initialized
+09:52:07.062 [TestNG-test=BookingTest-1] INFO  bookingTesting.HomePage - Navigated to HomeURL
+09:52:15.707 [TestNG-test=BookingTest-1] INFO  bookingTesting.HomePage - Asserted Greeeting
+09:52:15.943 [main] INFO  bookingTesting.HomePage - Browser Closed
+09:52:29.622 [TestNG-test=maiRU Test-1] INFO  resources.base - Opened 2nd Test Case
