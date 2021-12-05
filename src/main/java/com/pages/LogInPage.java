@@ -16,17 +16,7 @@ public class LogInPage {
 	public LogInPage (WebDriver driver) {
 
 		this.driver = driver;
-		/*
-		 * this driver - of the current class is assigned to LoginPageObject driver
-		 * constructor, which goes to Object Method in HomePage class driver object is
-		 * assigned to driver variable this.driver is assigned to local driver object
-		 * from the testcase driver object basically transfering driver capabilities
-		 * from testcase to this class
-		 */
 	}
-	
-	
-
 	private By homeSignIn = By.xpath("//div[@id='user_form']/ul/li[5]/a/div");
 	private By userEmail = By.xpath("//input[@id='username']");
 	private By nextSubmit = By.xpath("//button[@type='submit']");
